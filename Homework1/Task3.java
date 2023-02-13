@@ -8,11 +8,11 @@ public class Task3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Введите первое чсло: ");
+        System.out.print("Введите первое число: ");
         double num1 = sc.nextDouble();
         System.out.print("Выберите действие ( + | - | / | * ): ");
         String operation = sc.next();
-        System.out.print("Введите второе чсло: ");
+        System.out.print("Введите второе число: ");
         double num2 = sc.nextDouble();
         sc.close();
 
