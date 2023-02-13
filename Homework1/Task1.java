@@ -18,5 +18,7 @@ public class Task1 {
         for(int i = 1; i <= n; i++)
             factorial *= i;
         System.out.println("Факториал: " + factorial);
+
+        sc.close();
     }
 }
