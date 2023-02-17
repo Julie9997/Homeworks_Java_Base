@@ -1,0 +1,4 @@
+фев 17, 2023 11:09:12 PM Homework2.Task4 Logs
+INFO: 5.0 + 9.0 = 14.0
+фев 17, 2023 11:10:45 PM Homework2.Task4 Logs
+INFO: 7.0 - 345.0 = -338.0
