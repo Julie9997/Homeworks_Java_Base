@@ -11,14 +11,17 @@ import java.util.logging.SimpleFormatter;
 
 public class Task1 {
     public static void main(String[] args) {
+        int[] nums = {4, 5, 3, 7, 1, 9};
+        /* 
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите через пробел числа для сортировки: ");
         String strArr[] = sc.nextLine().split(" ");
+        
         int nums[] = new int[strArr.length];
         for (int i = 0; i < strArr.length; i++)
             nums[i] = Integer.parseInt(strArr[i]);
         sc.close();
-
+        */
         BubbleSort(nums);
         System.out.print("Отсортированный массив: ");
         for(int i = 0; i < nums.length; i++)

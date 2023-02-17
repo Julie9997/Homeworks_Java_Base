@@ -52,3 +52,33 @@ INFO: [1, 2, 2, 3, 4, 5, 7]
 INFO: [1, 2, 2, 3, 4, 5, 7]
 фев 16, 2023 10:30:09 AM Homework2.Task1 Logs
 INFO: [1, 2, 2, 3, 4, 5, 7]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [4, 5, 3, 7, 1, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [4, 3, 5, 7, 1, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [4, 3, 5, 7, 1, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [4, 3, 5, 1, 7, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [4, 3, 5, 1, 7, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [3, 4, 5, 1, 7, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [3, 4, 5, 1, 7, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [3, 4, 1, 5, 7, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [3, 4, 1, 5, 7, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [3, 4, 1, 5, 7, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [3, 1, 4, 5, 7, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [3, 1, 4, 5, 7, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [1, 3, 4, 5, 7, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [1, 3, 4, 5, 7, 9]
+фев 17, 2023 10:23:19 PM Homework2.Task1 Logs
+INFO: [1, 3, 4, 5, 7, 9]
