@@ -1,0 +1,30 @@
+февр. 26, 2023 2:32:51 PM Homework4.Task3 Logs
+INFO: 5.0 * 5.7 = 28.5
+февр. 26, 2023 2:33:01 PM Homework4.Task3 Logs
+INFO: 28.5 - 5.0 = 23.5
+февр. 26, 2023 2:33:07 PM Homework4.Task3 Logs
+INFO: Произведена отмена.
+февр. 26, 2023 2:33:21 PM Homework4.Task3 Logs
+INFO: 28.5 / 7.2 = 3.958333333333333
+февр. 26, 2023 2:33:29 PM Homework4.Task3 Logs
+INFO: 3.96 + 10.0 = 13.96
+февр. 26, 2023 2:33:33 PM Homework4.Task3 Logs
+INFO: Произведена отмена.
+февр. 26, 2023 2:33:39 PM Homework4.Task3 Logs
+INFO: Серия вычислений завершена.
+февр. 26, 2023 2:33:39 PM Homework4.Task3 Logs
+INFO: 
+февр. 26, 2023 2:34:22 PM Homework4.Task3 Logs
+INFO: 5.0 - 7.0 = -2.0
+февр. 26, 2023 2:34:26 PM Homework4.Task3 Logs
+INFO: -2.0 - 10.0 = -12.0
+февр. 26, 2023 2:34:29 PM Homework4.Task3 Logs
+INFO: Произведена отмена.
+февр. 26, 2023 2:34:32 PM Homework4.Task3 Logs
+INFO: Произведена отмена.
+февр. 26, 2023 2:34:35 PM Homework4.Task3 Logs
+INFO: Произведена отмена.
+февр. 26, 2023 2:34:39 PM Homework4.Task3 Logs
+INFO: Серия вычислений завершена.
+февр. 26, 2023 2:34:39 PM Homework4.Task3 Logs
+INFO: 
