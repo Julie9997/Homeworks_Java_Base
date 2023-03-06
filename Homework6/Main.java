@@ -111,7 +111,7 @@ public class Main {
         for (Laptop l : laptops) {
             osSet.add(l.getOS());
         }
-        System.out.println("Выберите объем памяти: " + osSet + "\n" + "Выбор: ");
+        System.out.println("Выберите операционную систему: " + osSet + "\n" + "Выбор: ");
 
         String filter = sc.next();
         if (osSet.contains(filter)) {
@@ -131,7 +131,7 @@ public class Main {
         for (Laptop l : laptops) {
             colors.add(l.getColor());
         }
-        System.out.println("Выберите объем памяти: " + colors + "\n" + "Выбор: ");
+        System.out.println("Выберите цвет: " + colors + "\n" + "Выбор: ");
 
         String filter = sc.next();
         if (colors.contains(filter)) {
