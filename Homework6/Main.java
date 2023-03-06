@@ -81,7 +81,7 @@ public class Main {
                 }
             }
         } else {
-            System.out.println("По вашему запросу ничего не найдено");
+            System.out.println("По вашему запросу ничего не найдено\n");
         }
 
     }
@@ -102,7 +102,7 @@ public class Main {
                 }
             }
         } else {
-            System.out.println("По вашему запросу ничего не найдено");
+            System.out.println("По вашему запросу ничего не найдено\n");
         }
     }
 
@@ -122,7 +122,7 @@ public class Main {
                 }
             }
         } else {
-            System.out.println("По вашему запросу ничего не найдено");
+            System.out.println("По вашему запросу ничего не найдено\n");
         }
     }
     
@@ -142,7 +142,7 @@ public class Main {
                 }
             }
         } else {
-            System.out.println("По вашему запросу ничего не найдено");
+            System.out.println("По вашему запросу ничего не найдено\n");
         }
     }
 
