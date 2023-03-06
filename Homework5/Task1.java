@@ -24,7 +24,7 @@ public class Task1 {
 
             switch(choice){
                 case 1:
-                    addContact(phoneBook);
+                    addContact(phoneBook, sc);
                     System.out.println();
                     break;
                 case 2:
@@ -41,8 +41,7 @@ public class Task1 {
         sc.close();
     }
 
-    public static void addContact(Map<String, String> map){
-        Scanner sc = new Scanner(System.in, "cp866");
+    public static void addContact(Map<String, String> map, Scanner sc){
         String contact = "";
         System.out.println("Введите фамилию: ");
         contact += sc.nextLine() + " ";
